@@ -1,11 +1,9 @@
-<h1>Mini-Game Start Reactor do Among Us usando Vanilla JS </h1>
+<h1 align="center">Mini-Game Start Reactor do Among Us usando Vanilla JS <img alt="Letmeask" src="https://www.graphicpie.com/wp-content/uploads/2020/11/red-among-us-png-842x1024.png" width="100px"> </h1>
 
 <h1 align="center">
     <img alt="Among-us" src="https://user-images.githubusercontent.com/81105676/127580967-610d7f2e-d700-4153-95bf-891f9ab13f9c.png"
 " />
 </h1>
-
-<br>
 
 ## Tecnologias
 
